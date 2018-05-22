@@ -246,7 +246,7 @@ function getNumberForColors(rate) {
 	return (rate/dV) * plusS;
 }
 
-//Get the pad for the color
+//Get the pad for the color it is a prototype function in javascrip
 String.prototype.pad = function( n, p ) {
     var s = '', n = Math.max( 0, n - this.length );
     while( n-- ) {
@@ -259,10 +259,9 @@ String.prototype.pad = function( n, p ) {
 * @rate {Array} Rate to validate
 *
 * @description Get a color for the diferent inverval of rate
-* @return {String} Hexadecimal color
+* @return {String} Unique Hexadecimal color
 **/
 function getColor(rate, colorR, colorExtra) {
-
     var red = parseInt(Math.floor((colorR * 256)));
     var green = parseInt(Math.floor((colorExtra * 256)));
     var blue = parseInt(Math.floor((colorExtra * 256)));
