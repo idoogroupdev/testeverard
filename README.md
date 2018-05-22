@@ -94,7 +94,7 @@ The generated colors do need to be visually distinguishable from each other, so 
 
 If you have any questions feel free to ask and I'll do my best to clarify
 
-## Solutionm of the problem
+## Solution of the problem
 
 * - To order the all dates for date ASC;
 * - To Find the consecutive date each date and order it;
