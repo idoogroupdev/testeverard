@@ -96,12 +96,17 @@ If you have any questions feel free to ask and I'll do my best to clarify
 
 ## Solutionm of the problem
 
-1 - To order the all dates for date ASC;
-2 - To Find the consecutive date each date and order it;
-3 - To get a unique color (hexadecimal) for each inverval of dates and rate;
-4 - To create of the Array to output ordened by inteval of consecutive dates;
-5 - Input since Array colled jSon;
-6 - Run node . in the root of the proyect;
+* - To order the all dates for date ASC;
+* - To Find the consecutive date each date and order it;
+* - To get a unique color (hexadecimal) for each inverval of dates and rate;
+* - To create of the Array to output ordened by inteval of consecutive dates;
+* - Input since Array colled jSon;
+* - Run node . in the root of the proyect;
+
+#### Node.js Run application
+```
+node .
+```
 
 contact: ernesto.mila@idoogroup.com
 web: www.idoogroup.us
